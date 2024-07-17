@@ -7,7 +7,7 @@
 <h3> Tecnologias </h3>
 
 <div>
-<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fhtml5-logo&psig=AOvVaw2vDJ58sM9urB8iKC_9pngZ&ust=1721262041078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCXsprnrIcDFQAAAAAdAAAAABAJ">
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Ffree%2Fcss-logo%2F&psig=AOvVaw2vDJ58sM9urB8iKC_9pngZ&ust=1721262041078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCXsprnrIcDFQAAAAAdAAAAABAR">
 </div>
 
 <h3> Time </h3>
