@@ -7,7 +7,9 @@
 <h3> Tecnologias </h3>
 
 <div>
-<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Ffree%2Fcss-logo%2F&psig=AOvVaw2vDJ58sM9urB8iKC_9pngZ&ust=1721262041078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCXsprnrIcDFQAAAAAdAAAAABAR">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 <h3> Time </h3>
